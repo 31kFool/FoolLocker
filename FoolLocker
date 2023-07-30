@@ -64,7 +64,7 @@ end)
     --
     if getgenv().valiansh == true then
                         game.StarterGui:SetCore("SendNotification", {
-                   Title = "Valiant",
+                   Title = "Niggas Locker",
                    Text = "Already Loaded!",
                    Duration = 5
  
