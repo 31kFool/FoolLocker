@@ -1,12 +1,3 @@
-local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
- 
-CoreGui:SetCore("SendNotification", {
-    -- Customizable
-    Title = "Niggas Locker",
-    Text = "Made By Fool",
-    Duration = 10, -- Set the duration to how much you want this to stay
-    -- More code in part 2
-})
 -- Toggle
 getgenv().Target = true
 -- Configuration
